@@ -1,9 +1,23 @@
 HR Attrition Analysis – Data-Driven Insights & Strategic Solutions
+
 📌 Introduction:
 Employee attrition is  a major concern for organizations, affecting productivity, operational efficiency, and overall 
 business growth. Understanding the key drivers behind employee turnover is crucial for developing effective retention strategies.
 This analysis explores the main factors contributing to attrition, including salary, job roles, work-life balance, travel distance,
 and business travel. By leveraging data-driven insights, HR teams can implement targeted interventions to enhance employee satisfaction and reduce attrition rates.
+
+Project ScreenShots:
+![p1](https://github.com/user-attachments/assets/bc86a213-b0ca-4980-8b88-5bf99bf8f7e8)
+
+![p2](https://github.com/user-attachments/assets/f057aa6a-3d7a-4085-be86-1c550307818c)
+![p3](https://github.com/user-attachments/assets/3f338f24-a30d-4a42-9d17-1c9a6d9f5cfd)
+![p4](https://github.com/user-attachments/assets/59f9d002-0d14-40ff-a58a-1ad4f91e8fa0)
+![p5](https://github.com/user-attachments/assets/774bf2e1-1db0-4029-9cc0-17aafb70fbff)
+![p6](https://github.com/user-attachments/assets/e5436711-8d65-4af7-bbfb-f663d70821b5)
+
+
+
+
 
 📊 Key Insights:
 Department-Wise Attrition:
